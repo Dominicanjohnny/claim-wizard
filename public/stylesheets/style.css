@@ -6,6 +6,8 @@ a {
   color: #00B7FF;
   /*background-color: #000080;*/ }
 
+
+
 .main-container {
   padding-top: 25px; }
 
@@ -67,12 +69,23 @@ nav.navbar {
 
 .home-heading-wrapper > h1 > p {
   font-size: 3rem;
-  color: #fff; }
+  color: black; }
 
 .first-section {
-  background-image: url(/images/Insurance-policy-image.jpg);
+  background-image: url(/images/home_insurance_policy.jpg);
   background-size: cover;
   height: 800px; }
+
+  .first-section-two {
+    background-image: url(/images/image.jpeg);
+    background-size: cover;
+    height: 800px;}
+
+  .first-section-three {
+    background-image: url(/images/insurance.jpeg);
+    background-size: cover;
+    height: 800px;
+  }
 
 .col-sm-10 {
   height: 100px;
